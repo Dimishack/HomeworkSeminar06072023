@@ -8,8 +8,8 @@ namespace HomeworkSeminar06072023
         {
 			try
 			{
-                Console.WriteLine("Задача №36:");
-                Task36.SumNumOvenPosition();
+                Console.WriteLine("Задача №38:");
+                Task38.DifferenceMaxMin();
             }
 			catch (Exception ex)
 			{
