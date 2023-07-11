@@ -8,8 +8,8 @@ namespace HomeworkSeminar06072023
         {
 			try
 			{
-                Console.WriteLine("Задача №34:");
-                Task34.QuantityEvenNum();
+                Console.WriteLine("Задача №36:");
+                Task36.SumNumOvenPosition();
             }
 			catch (Exception ex)
 			{
