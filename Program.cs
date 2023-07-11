@@ -8,8 +8,9 @@ namespace HomeworkSeminar06072023
         {
 			try
 			{
-
-			}
+                Console.WriteLine("Задача №34:");
+                Task34.QuantityEvenNum();
+            }
 			catch (Exception ex)
 			{
 				Console.WriteLine(ex.Message);
